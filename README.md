@@ -120,6 +120,7 @@ Selected as one of the top postgraduate students at **The University of Western 
 📄 See the official event details: [2016 Postgraduate Showcase Flyer (UWA)](https://www.gga.org.au/wp-content/uploads/2016/04/PG-Showcase-Flyer-8-June-2016.pdf) :contentReference[oaicite:1]{index=1}
 
 This award highlights academic excellence and strong communication of research findings to both academic and industry audiences.
+-![Abdulkareem](ShowCase.jpg)
 
 ---
 
